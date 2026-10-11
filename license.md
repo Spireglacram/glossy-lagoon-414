@@ -135,4 +135,4 @@ gta 5 mod menu is a tool that replaces the skin models the game shows to you. Sk
 | A setup question | Read the Quick Start above |
 | A feature request | Open an issue with the `enhancement` label |
 
-<p align="center"><sub>glossy-lagoon-414 · Updated 2026-10-10 · Shared under the MIT License</sub></p>
+<p align="center"><sub>glossy-lagoon-414 · Updated 2026-10-11 · Shared under the MIT License</sub></p>
